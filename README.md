@@ -1,4 +1,5 @@
 # The best Python Styleguide out there 🔥
+### By Gtruaan
 
 Hello! Welcome to the compilation of syntax rules and good practices that I invented out of boredome. I'll try to update this once in a while, adding new rules.
 
