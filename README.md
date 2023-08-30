@@ -95,6 +95,7 @@ class Program:
     def Sum(a: int, b: int) -> int:
         return a + b;
 
+    @staticmethod
     def Main() -> None:
         a: int = 3;
         b: int = randint(1, 3);
