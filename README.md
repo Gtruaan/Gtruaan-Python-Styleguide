@@ -1,5 +1,5 @@
 # The best Python Styleguide out there 🔥
-###### /s
+###### Disclaimer: This is a joke
 ### By Gtruaan
 
 Hello! Welcome to the compilation of syntax rules and good practices that I invented out of boredome. I'll try to update this once in a while, adding new rules.
@@ -10,7 +10,7 @@ Single character strings or strings inside a formatting block (`{}`) can use sin
 
 Example:
 ```python
-print("Hello World!", f"Our names are {', '}.join(names)");
+print("Hello World!", f"Our names are {', '.join(names)}");
 ```
 
 ## Rule 1: Every line must end in a Semi-Colon
